@@ -7,3 +7,7 @@ print("Hello from CI/CD demo")
  
 df = spark.range(10)
 df.show()
+
+# COMMAND ----------
+
+print("asvdvd")
